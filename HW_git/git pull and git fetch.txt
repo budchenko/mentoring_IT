@@ -1,0 +1,3 @@
+What is the difference between 'git pull' and 'git fetch'?
+
+'Git fetch' just download changes from the remote server to the local repository and does not affect local branches while 'git pull' merge changes from the cloned repository with the local code you work on.
